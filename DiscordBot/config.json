@@ -1,0 +1,7 @@
+{
+    "Token" : "Bot Token",
+    "serverStartUpCommand" : "sh -c start.sh",
+    "channelName_Command" : "minecraft-channel",
+    "SubscriberRoleName" : "Subscriber",
+    "ServerAdminRoleName" : "Minecraft Admin"
+}

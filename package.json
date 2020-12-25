@@ -1,0 +1,15 @@
+{
+    "name": "discord-bot-minecraft-server-manager",
+    "version": "1.0.0",
+    "description": "A Simple Minecraft Manager",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": ["Minecraft","Discord"],
+    "author": "Allen Chen",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.5.1"
+    }
+}
