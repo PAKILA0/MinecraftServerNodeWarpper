@@ -17,7 +17,7 @@ npm install
 In the DiscordBot directory, find config.json and apply the following values
 
 Token : 
-Your discord bot token [Discord]https://discord.com/developers/applications
+Your discord bot token [Discord](https://discord.com/developers/applications)
 Must have the following permission: View Channels, Send Messages, Read Message History, Add Reactions
 
 serverStartUpCommand :
