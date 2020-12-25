@@ -1,6 +1,6 @@
 # Discord Bot Based Minecraft Server Manager
 
-Minecraft Server - Node.js Server - Discord Bot
+Minecraft Server - Node.js - Discord Bot
 
 Member of your discord with Subscriber Role can request whitelist by typing !join MinecraftName, and admin can send minecraft command lines through !c commands
 
