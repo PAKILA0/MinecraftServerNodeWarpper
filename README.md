@@ -46,4 +46,4 @@ The name of your admin role in discord
 
 Run app.js
 
-The Minecraft Server will run automatically after Node.js Start and recover if crash.
+The Minecraft Server will run automatically after program start and recover if crash.
