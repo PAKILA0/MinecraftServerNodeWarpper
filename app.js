@@ -146,7 +146,7 @@ client.on('message', async msg  => {
         //Join Command - Allow User To Request Whitelist via role check
         case 'join':
             if (!isServerUp){
-                msg.reply("Minecraft Server Is Starting, Please Wait You Impatience Fuck")
+                msg.reply("Minecraft Server Is Starting, Please Wait.")
                 return
             }
 
@@ -180,7 +180,7 @@ client.on('message', async msg  => {
         //
         case 'c':
             if (!isServerUp){
-                msg.reply("Minecraft Server Is Starting, Please Wait You")
+                msg.reply("Minecraft Server Is Starting, Please Wait.")
                 return
             }
 
@@ -216,7 +216,7 @@ client.on('message', async msg  => {
         return
         
         default:
-            msg.reply("The hell you talking about")
+            msg.reply("Unknown Commands :(")
         return
     }
 });
