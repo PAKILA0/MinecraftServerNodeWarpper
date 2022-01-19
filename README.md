@@ -1,4 +1,4 @@
-# Discord Bot Based Minecraft Server Manager
+# Discord Bot Based Minecraft Server Manager(Fancy Name Am I Right?)
 
 Minecraft Server - Node.js - Discord Bot
 
